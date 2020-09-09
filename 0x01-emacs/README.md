@@ -1,1 +1,1 @@
-This proyect is about a most common commands for emacs
+Each file contains the command to perform the action described in the file name.
