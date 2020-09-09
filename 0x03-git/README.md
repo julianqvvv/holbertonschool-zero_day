@@ -1,0 +1,1 @@
+This directory contains the tasks of my third project on Holberton School.
